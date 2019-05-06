@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab7</string>
+    <string name="Circle">Circle</string>
+    <string name="Square">Square</string>
+    <string name="Face">Face</string>
+
+</resources>

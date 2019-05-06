@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="intro">Please input size of array</string>
+    <string name="arrSize">Array\'s size =</string>
+    <string name="calc">Calculate</string>
+    <string name="array">Array:</string>
+    <string name="arrAverage">Arithmetical mean=</string>
+
+</resources>

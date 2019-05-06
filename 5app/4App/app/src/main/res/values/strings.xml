@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">app4</string>
+    <string name="Pascal">Автор - Никлаус Вирт.</string>
+    <string name="C">Автор - Деннис Ритчи.</string>
+    <string name="Java">Автор - Джеймс Гослинг.</string>
+    <string name="Basic">Авторы - Томас Курц, Джон Джордж Кемени</string>
+    <string name="Сplusplus">Автор - Бьёрн Страуструп</string>
+    <string name="Csharp">Автор - Андерс Хейлсберг</string>
+    <string name="PHP">Автор - Расмус Лердорф</string>
+    <string name="Python">Автор - Гвидо ван Россум</string>
+    <string name="ObjectiveC">Автор - 	Бред Кокс</string>
+    <string name="about">About</string>
+    <string name="save">Save</string>
+    <string name="open">Open</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_content">This is the best application about programming languages</string>
+    <string name="addNew">Add new language</string>
+    <string name="change_picture">Change picture</string>
+
+
+
+</resources>

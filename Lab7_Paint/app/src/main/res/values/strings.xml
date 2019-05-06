@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lab7_Paint</string>
+    <string name="circle">Circle</string>
+    <string name="square">Square</string>
+    <string name="clear">Clear canvas</string>
+    <string name="save">Save picture</string>
+    <string name="open">Open picture</string>
+    <string name="save_problem">Save "can't" be done (maybe problem with sdcard</string>
+    <string-array name="colors_array">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+
+    <string-array name="styles_array">
+        <item>Round</item>
+        <item>Bevel</item>
+        <item>Miter</item>
+    </string-array>
+
+</resources>

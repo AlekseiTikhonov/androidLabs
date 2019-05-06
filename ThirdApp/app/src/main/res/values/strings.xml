@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ThirdApp</string>
+    <string name="Pascal">Автор - Никлаус Вирт.</string>
+    <string name="C">Автор - Деннис Ритчи.</string>
+    <string name="Java">Автор - Джеймс Гослинг.</string>
+    <string name="Basic">Авторы - Томас Курц, Джон Джордж Кемени</string>
+    <string name="Сplusplus">Автор - Бьёрн Страуструп</string>
+    <string name="Csharp">Автор - Андерс Хейлсберг</string>
+    <string name="PHP">Автор - Расмус Лердорф</string>
+    <string name="Python">Автор - Гвидо ван Россум</string>
+    <string name="ObjectiveC">Автор - 	Бред Кокс</string>
+
+
+
+
+</resources>

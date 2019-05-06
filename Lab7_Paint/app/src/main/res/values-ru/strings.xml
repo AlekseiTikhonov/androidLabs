@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Лаба 7</string>
+    <string name="Circle">Круг</string>
+    <string name="Square">Квадрат</string>
+    <string name="Face">Лицо</string>
+
+</resources>
